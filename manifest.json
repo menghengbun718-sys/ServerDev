@@ -1,0 +1,21 @@
+{
+  "name": "Server-Panel",
+  "short_name": "Panel",
+  "description": "Public access server dashboard with persistent login",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgZmlsbD0iIzBmMTcyYSIvPjxjaXJjbGUgY3g9Ijk2IiBjeT0iOTYiIHI9IjYwIiBmaWxsPSIjM2I4MmY2Ii8+PHJlY3QgeD0iNzYiIHk9Ijc2IiB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIGZpbGw9IndoaXRlIi8+PGNpcmNsZSBjeD0iODYiIGN5PSI4NiIgcj0iMyIgZmlsbD0iIzBmMTcyYSIvPjxjaXJjbGUgY3g9IjEwNiIgY3k9Ijg2IiByPSIzIiBmaWxsPSIjMGYxNzJhIi8+PGNpcmNsZSBjeD0iODYiIGN5PSIxMDYiIHI9IjMiIGZpbGw9IiMwZjE3MmEiLz48Y2lyY2xlIGN4PSIxMDYiIGN5PSIxMDYiIHI9IjMiIGZpbGw9IiMwZjE3MmEiLz48L3N2Zz4=",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgZmlsbD0iIzBmMTcyYSIvPjxjaXJjbGUgY3g9Ijk2IiBjeT0iOTYiIHI9IjYwIiBmaWxsPSIjM2I4MmY2Ii8+PHJlY3QgeD0iNzYiIHk9Ijc2IiB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIGZpbGw9IndoaXRlIi8+PGNpcmNsZSBjeD0iODYiIGN5PSI4NiIgcj0iMyIgZmlsbD0iIzBmMTcyYSIvPjxjaXJjbGUgY3g9IjEwNiIgY3k9Ijg2IiByPSIzIiBmaWxsPSIjMGYxNzJhIi8+PGNpcmNsZSBjeD0iODYiIGN5PSIxMDYiIHI9IjMiIGZpbGw9IiMwZjE3MmEiLz48Y2lyY2xlIGN4PSIxMDYiIGN5PSIxMDYiIHI9IjMiIGZpbGw9IiMwZjE3MmEiLz48L3N2Zz4=",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0f172a"
+}
